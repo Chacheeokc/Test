@@ -10,6 +10,8 @@
 final int BIG = 10_000_000;
 ```
 
+Use different commits for every different idea.
+
 During the class, I have learned about different infinites
 
 ```java
