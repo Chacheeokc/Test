@@ -27,4 +27,4 @@ Use *JSHELL* to experiment with Java
 * get code from GitHub
 * change directory to the one from the step above
 * modify test
-*send it back to GitHub
+* send it back to GitHub
